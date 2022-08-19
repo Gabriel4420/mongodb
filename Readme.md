@@ -49,11 +49,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Handlebars](https://handlebarsjs.com/)
 - [Express](https://expressjs.com/pt-br/)
 - [MongoDB](https://www.mongodb.com/docs/)
-- [Mongoose](https://mongoosejs.com/)
 
 ## :white_check_mark: Pré requisitos
 
-Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
+Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com), [Node](https://nodejs.org/en/) e o [Yarn](https://yarnpkg.com/) instalados em sua maquina.
 
 ## :checkered_flag: Começando
 
